@@ -16,5 +16,5 @@ public class MainActivity extends AppCompatActivity {
 
     public void enviaMensagem(View view) {
     }
-    //todo: criar
+    //todo: criar codigo de enviar mensagem
 }
