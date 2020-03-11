@@ -2,4 +2,6 @@
     <string name="app_name">Mensagem</string>
     <string name="enviar">Enviar</string>
     <string name="mensagem">Mensagem</string>
+    <string name="menssagem">Menssagem</string>
+    <string name="aqui_aparece_a_menssagem_do_utilizador">Aqui aparece a menssagem do utilizador</string>
 </resources>
